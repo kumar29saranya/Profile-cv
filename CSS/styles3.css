@@ -1,0 +1,60 @@
+body{
+    margin:0;
+}
+h1{
+    margin:0;
+    text-align:center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size:50px;
+    padding-top: 50px;
+    text-shadow: 2px 2px #51ade2;
+}
+table{
+    padding-left: 100px;
+    padding-right: 40px;
+}
+#interests{
+    background-color:#98d9ff;
+    font-family: 'Poppins', sans-serif;
+}
+.return{
+    text-align: center;
+    padding-left: 700px;
+    font-weight:600;
+}
+a:link {
+    color: #350d1e;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #790000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(196, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+.skill{
+  font-size: 31px;
+  font-family: 'Changa', sans-serif;
+}
+.copyright{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    background-color:rgba(3, 3, 3, 0.986);
+    color:#cacaca;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
