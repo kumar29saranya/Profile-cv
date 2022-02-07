@@ -10,10 +10,10 @@ hr{
   
 }
 h1{
-  color:rgb(22, 22, 22);
-  font-family: 'Pompiere', cursive;
-  font-size: 50px;
-  text-shadow: 2px 2px #d6ae95;
+  color:rgb(26, 22, 22);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 40px;
+  text-shadow: 1px 1px #ffe999;
 
 }
 p{
@@ -35,7 +35,7 @@ a:link {
 }
 
 a:visited {
-  color: #241c31;
+  color: #241738;
   background-color: transparent;
   text-decoration: none;
 }
@@ -47,12 +47,12 @@ a:hover {
 }
 
 a:active {
-  color: yellow;
+  color: rgb(0, 0, 0);
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 ul{
-  color:rgb(255, 255, 255);
+  color:#302b29;
   font-size: 30px;
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -66,66 +66,59 @@ table{
 /*****************CLASS SELECTORS**************/
 
 #eduhead, #hobb ,#exphead, #skillhead{
-  font-family: 'Cabin Sketch', cursive;
+  color:#2E1114;
+  font-family: 'Advent Pro', sans-serif;
 }
 .intro{
-  background-color:#ffc29d;
+  background-color:#FBE8A6;
   padding-left: 180px;
   padding-right: 150px;
   
 }
-.hone{
-  border-color:rgb(37, 14, 14);
-  
-  width:30%;
-}
+
 .htwo{
-  border-color:#ffc29d;
-  border-bottom-style: dotted;
-  width:50%;
-}
-.hfour{
-  border-color:rgb(37, 14, 14);
-  border-bottom-style: dotted;
-  width:50%;
-}
-.hfive{
-  border-color:rgb(2, 39, 48);
+  border-color:#FBE8A6;
   border-bottom-style: dotted;
   width:50%;
 }
 .aboutme{
-  color: rgb(53, 6, 6);
+  color: #302b29;
   font-weight:600;
 }
 #eduhead{
-  color:#f5d2c5;
-  text-shadow: 2px 2px rgb(107, 38, 38);
+  font-weight: 700;
+  text-shadow: 1px 1px rgb(235, 226, 255);
   padding-top:30px
 }
 .edu{
-  background-color:rgb(37, 14, 14);
+  background-color:#D9D7F1;
+  
   padding: 0px 20px 0 20px;
   margin:0 auto 0 auto;
 }
 .edudetails{
   font-size: 20px;
+  color:#302b29;
+}
+.hfour{
+  border-color: #D9D7F1;
+  border-bottom-style: dotted;
+  width:50%;
 }
 #skillhead{
   font-size: 50px;
   padding-top: 40px;
   padding-bottom: 40px;
-  text-shadow: 2px 2px rgb(165, 167, 202);
+  text-shadow: 1px 1px rgb(171, 223, 223);
   font-weight: 600;
   
 }
 
 #hobb{
-  color: rgb(36, 36, 36);
   font-size:40px ;
 }
 .hobbies{
-  background-color:#d6e4ff;
+  background-color:#D2FDFF;
   text-align: center;
   padding: 0px 0px 0px 10px;
   color:#000000;
@@ -134,9 +127,14 @@ table{
   text-align: center;
   text-shadow: 2px 2px rgb(207, 183, 183);
 }
+.hfive{
+  border-color: #B4DFE5;
+  border-bottom-style: dotted;
+  width:50%;
+}
 #exphead{
-  color:#f5d2c5;
-  text-shadow: 2px 2px rgb(59, 68, 99);
+  font-weight:700;
+  text-shadow: 1px 1px #98dae4;
   padding-top: 60px;
   padding-bottom: 40px;
 }
@@ -146,7 +144,7 @@ th{
   padding-bottom: 30px;
 }
 .experience{
-  background-color:rgb(2, 39, 48);
+  background-color:#B4DFE5;
   padding-top: 0px;
   padding-left: 70px;
   padding-right: 70px;
@@ -154,11 +152,11 @@ th{
   
 }
 #exptable{
-  color:#ffe7df;
+  color:#302b29;
 }
 .copyright{
-  font-family: 'Poppins', sans-serif;
-  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12px;
   background-color:rgba(3, 3, 3, 0.986);
   color:#cacaca;
   padding-top: 20px;
