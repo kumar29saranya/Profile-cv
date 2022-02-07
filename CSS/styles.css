@@ -59,6 +59,7 @@ ul{
 table{
   font-family: 'Source Sans Pro', sans-serif;
   padding-bottom:30px;
+  margin:0 auto 0 auto;
 }
 
 
@@ -104,9 +105,8 @@ table{
 }
 .edu{
   background-color:rgb(37, 14, 14);
-  padding-top:0px;
-  padding-left: 80px;
-  padding-right: 40px;
+  padding: 0px 20px 0 20px;
+  margin:0 auto 0 auto;
 }
 .edudetails{
   font-size: 20px;

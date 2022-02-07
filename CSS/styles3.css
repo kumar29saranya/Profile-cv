@@ -9,18 +9,20 @@ h1{
     padding-top: 50px;
     text-shadow: 2px 2px #51ade2;
 }
-table{
-    padding-left: 100px;
-    padding-right: 40px;
+#skills{
+  margin:0 auto;
+  width:90%;
 }
 #interests{
+  
     background-color:#98d9ff;
     font-family: 'Poppins', sans-serif;
+    
 }
 .return{
-    text-align: center;
-    padding-left: 700px;
+    margin:0 auto;
     font-weight:600;
+    display: table;
 }
 a:link {
     color: #350d1e;
