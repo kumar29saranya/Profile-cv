@@ -3,22 +3,15 @@ body{
     margin-top:0;
 }
 h1{
-  color:#2E1114;
+  color:#393636;
     margin:0;
     text-align:center;
-    font-family: 'Advent Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size:50px;
     padding-top: 50px;
     text-shadow: 1px 1px rgb(137, 212, 218);
 }
-hr{
-    border-style: none;
-    border-bottom-style: dotted;
-    border-color: #D2FDFF;
-    border-width: 7px;
-    margin-bottom: 0;
-    width:70%;
-  }
+
 #linktable{
     margin: 0 auto;
     font-family: 'Source Sans Pro', sans-serif;
@@ -50,7 +43,7 @@ a:link {
     text-decoration: none;
   }
 .links{
-    background-color:#B4DFE5;
+    background-image: linear-gradient(rgba(124, 208, 214, 0.864),#B4DFE5, #D2FDFF);
 }
 #form{
     
@@ -69,6 +62,7 @@ a:link {
 }
 
 .return{
+  color: #648ca4;
   margin:0 auto;
   font-weight:600;
   display: table;
@@ -76,7 +70,7 @@ a:link {
 .copyright{
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px;
-  background-color:rgba(3, 3, 3, 0.986);
+  background-color:rgba(62, 62, 62, 0.986);
   color:#cacaca;
   padding-top: 20px;
   padding-bottom: 20px;
