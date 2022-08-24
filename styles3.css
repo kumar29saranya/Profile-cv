@@ -1,0 +1,64 @@
+body{
+    margin:0;
+}
+h1{
+  color:#2E1114;
+    margin:0;
+    text-align:center;
+    font-family: 'Advent Pro', sans-serif;
+    font-size:50px;
+    padding-top: 50px;
+    text-shadow: 1px 1px #d5ced6;
+}
+#skills{
+  margin:0 auto;
+  width:90%;
+}
+#interests{
+  
+    background-color:#D9D7F1;
+    font-family: 'Advent Pro', sans-serif;
+    
+}
+.return{
+  color: #2E1114;
+    margin:0 auto;
+    font-weight:600;
+    display: table;
+}
+a:link {
+    color: #514f4f;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #790000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(196, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+.skill{
+  font-size: 31px;
+  font-family: 'Advent Pro', sans-serif;
+}
+.copyright{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    background-color:rgba(62, 62, 62, 0.986);
+    color:#cacaca;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
